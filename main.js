@@ -549,11 +549,3 @@ function getTileKeyForValue(value) {
   if (value === 6) return 'tileOrange';
   return 'tileRed'; // 8, 12, 24, ...
 }
-
-
-
-
-
-
-
-
